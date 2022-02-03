@@ -2,3 +2,5 @@ local Sound = Instance.new("Sound", game.Workspace)
 Sound.Volume = 10
 Sound.SoundId = "rbxassetid://3025470671"
 Sound:Play()
+SoundOn = true
+SoundOn = true
